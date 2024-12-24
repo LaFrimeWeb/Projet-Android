@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Pencil body -->
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M30,85 L40,95 L100,35 L95,15 L30,85 Z" />
+
+    <!-- Pencil body highlight -->
+    <path
+        android:fillColor="#FFE066"
+        android:pathData="M30,85 L35,90 L95,40 L92,20 L30,85 Z" />
+
+    <!-- Pencil tip -->
+    <path
+        android:fillColor="#D2691E"
+        android:pathData="M95,15 L98,13 L105,20 L100,35 L95,15 Z" />
+
+    <!-- Pencil lead -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M98,13 L101,17 L105,20 L98,13 Z" />
+
+    <!-- Eraser body -->
+    <path
+        android:fillColor="#FF6F61"
+        android:pathData="M25,90 L35,100 L40,95 L30,85 L25,90 Z" />
+
+    <!-- Eraser metal connector -->
+    <path
+        android:fillColor="#C0C0C0"
+        android:pathData="M30,85 L40,95 L40,90 L30,80 L30,85 Z" />
+
+</vector>

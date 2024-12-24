@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mon Application</string>
+    <string name="hint_nom">Nom</string>
+    <string name="hint_prenom">Prénom</string>
+    <string name="hint_nom_utilisateur">Nom utilisateur</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_confirm_password">Confirmer le mot de passe</string>
+    <string name="button_register">Sinscrire</string>
+    <string name="button_back">Retour</string>
+    <string name="task_name">Nom de la tâche</string>
+    <string name="delete_task">Supprimer la tâche</string>
+    <string name="task_input_hint">Votre Tâche</string>
+    <string name="welcome_text">Bienvenue!</string>
+
+</resources>

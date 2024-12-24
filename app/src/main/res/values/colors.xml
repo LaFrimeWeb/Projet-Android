@@ -1,0 +1,20 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Teal Colors -->
+    <color name="tealLight">#E0F2F1</color>
+    <color name="tealMedium">#00796B</color>
+    <color name="tealDark">#004D40</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="primary">#6200EE</color>
+    <color name="primary_light">#BB86FC</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="secondary_button_color">#FF4081</color>
+
+</resources>
